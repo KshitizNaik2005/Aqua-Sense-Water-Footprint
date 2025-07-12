@@ -49,31 +49,31 @@ Edit
 
 ### 🔹 Frontend
 
-`bash
+bash
 cd aquasense-frontend
 npm install
-npm run dev`
+npm run dev
 🔹 Backend
-`bash
+bash
 Copy
 Edit
 cd aquasense-backend
 npm install
-npm start`
+npm start
 🔹 ML API
 `bash
 Copy
 Edit
 cd aquasense-ml
 pip install -r requirements.txt
-uvicorn main:app --reload`
+uvicorn main:app --reload
 
 👨‍💻 Team
 ## 👨‍💻 Team
 
 - [**Kshitiz**](https://github.com/KshitizNaik2005) – Frontend
 - [**Oshan**](https://github.com/Oshankhati) – Backend Integration  
-- [**Arpita**]((https://github.com/Arpitasoni24) – Frontend, UI/UX  
+- [**Arpita**](https://github.com/Arpitasoni24) – Frontend, UI/UX  
 - [**Asmita**](https://github.com/AsmitaSoni) – Machine Learning
 
 
